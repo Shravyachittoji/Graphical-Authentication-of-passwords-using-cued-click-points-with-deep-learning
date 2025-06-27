@@ -1,6 +1,6 @@
 
 
-# Graphical Password Authentication with Deep Learning
+# Graphical Authenticaton of Passwords with Deep Learning
 
 This project implements a secure graphical password authentication system that leverages deep learning models for enhanced security and user experience. The system allows users to select graphical passwords and evaluates the performance of different models using key metrics.
 
